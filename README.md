@@ -1,6 +1,8 @@
 # Snake Game with Reinforcement Learning
 
-In This repository, Snake game is implemented with Q-learning and Q-learning is a model-free reinforcement learning algorithm)
+In This repository, Snake game is implemented with Q-learning.
+
+(Q-learning is a model-free reinforcement learning algorithm)
 
 [Snake](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/snake.html) is a game where the agent must maneuver a line which grows in length each time food is touched by the head of the segment. The line follows the previous paths taken which eventually become obstacles for the agent to avoid.
 
